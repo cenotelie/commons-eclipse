@@ -4,7 +4,7 @@
     <groupId>fr.cenotelie.commons.eclipse</groupId>
     <artifactId>commons-eclipse-top</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>Cénotélie Commons - Eclipse</name>
     <description>Eclipse packaging for the Cénotélie Commons</description>
     <url>http://cenotelie.fr/commons</url>
