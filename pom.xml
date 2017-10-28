@@ -120,6 +120,11 @@
             </plugin>
             <plugin>
                 <groupId>org.eclipse.tycho</groupId>
+                <artifactId>tycho-versions-plugin</artifactId>
+                <version>1.0.0</version>
+            </plugin>
+            <plugin>
+                <groupId>org.eclipse.tycho</groupId>
                 <artifactId>tycho-compiler-plugin</artifactId>
                 <version>1.0.0</version>
                 <configuration>
