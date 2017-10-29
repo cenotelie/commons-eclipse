@@ -3,11 +3,11 @@
     <parent>
         <groupId>fr.cenotelie.commons.eclipse</groupId>
         <artifactId>commons-eclipse-top</artifactId>
-        <version>2.0.1</version>
+        <version>2.0.2-SNAPSHOT</version>
     </parent>
     <artifactId>fr.cenotelie.commons.updatesite</artifactId>
     <packaging>eclipse-repository</packaging>
-    <version>2.0.1</version>
+    <version>2.0.2-SNAPSHOT</version>
     <name>Cénotélie Commons - Update Site</name>
     <description>The repository of Eclipse plugins and features for Cénotélie Commons in Eclipse.</description>
     <url>http://cenotelie.fr/commons</url>

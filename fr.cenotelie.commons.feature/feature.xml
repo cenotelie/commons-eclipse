@@ -2,7 +2,7 @@
 <feature
         id="fr.cenotelie.commons.feature"
         label="Cénotélie Commons Feature"
-        version="2.0.1"
+        version="2.0.2.qualifier"
         provider-name="Association Cénotélie">
 
     <description url="http://cenotelie.fr/commons">
