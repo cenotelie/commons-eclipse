@@ -10,6 +10,7 @@
     <version>1.0.1-SNAPSHOT</version>
     <name>Cénotélie Commons - Feature</name>
     <description>Feature for the Cénotélie Commons bundles on the Eclipse platform.</description>
+    <url>http://cenotelie.fr/commons</url>
     <dependencies>
         <dependency>
             <groupId>fr.cenotelie.hime</groupId>
@@ -20,25 +21,25 @@
         <dependency>
             <groupId>fr.cenotelie.hime</groupId>
             <artifactId>hime-language-server</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>fr.cenotelie.commons</groupId>
             <artifactId>commons-utils</artifactId>
-            <version>1.0.0</version>
+            <version>2.0.1</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>fr.cenotelie.commons</groupId>
             <artifactId>commons-jsonrpc</artifactId>
-            <version>1.0.0</version>
+            <version>2.0.1</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>fr.cenotelie.commons</groupId>
             <artifactId>commons-lsp</artifactId>
-            <version>1.0.0</version>
+            <version>2.0.1</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
