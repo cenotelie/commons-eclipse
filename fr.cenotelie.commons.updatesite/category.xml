@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-	<feature id="fr.cenotelie.commons.feature" url="features/fr.cenotelie.commons.feature_2.0.2.qualifier.jar" version="2.0.2.qualifier">
+	<feature id="fr.cenotelie.commons.feature" url="features/fr.cenotelie.commons.feature_2.1.0.jar" version="2.1.0">
 		<category name="fr.cenotelie.commons.category"/>
 	</feature>
 	<category-def label="Cénotélie Commons" name="fr.cenotelie.commons.category">
